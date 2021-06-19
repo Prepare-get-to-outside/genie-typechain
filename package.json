@@ -4,5 +4,12 @@
   "description": "Learning Typescript by making a Blockchain with it",
   "main": "index.js",
   "repository": "https://github.com/Prepare-get-to-outside/genie-typechain.git",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.3.4"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
 }
