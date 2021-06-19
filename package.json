@@ -1,0 +1,8 @@
+{
+  "name": "genie-typechain",
+  "version": "1.0.0",
+  "description": "Learning Typescript by making a Blockchain with it",
+  "main": "index.js",
+  "repository": "https://github.com/Prepare-get-to-outside/genie-typechain.git",
+  "license": "MIT"
+}
