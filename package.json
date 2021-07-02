@@ -6,6 +6,7 @@
   "repository": "https://github.com/Prepare-get-to-outside/genie-typechain.git",
   "license": "MIT",
   "dependencies": {
+    "crypto-js": "^4.0.0",
     "typescript": "^4.3.4"
   },
   "scripts": {
